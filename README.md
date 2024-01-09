@@ -20,7 +20,7 @@ The aim of our project is to uncover, if any, patterns that Covid had on the Med
 
 ## Dataset Description
 
-The dataset comprises the following columns:
+The data used is this study was the U.S. Census data from 2018-2022. The dataset comprises the following columns:
 
 - **Year:** The years ranging from 2018 to 2022.
 - **poverty_female:** Poverty levels for single females.
