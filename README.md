@@ -63,21 +63,14 @@ The data used is this study was the U.S. Census data from 2018-2022. The dataset
   
 ## Data Visualization
 
-To visually represent the income trends, a bar graph and scatter plot with regression lines were created for each group.
+To visually represent the income trends, we utlizied bar graphs, scatter plots, and with regression plot graphs.
 
 ### Scatter Plots
+Each scatter plot is accompanied by a regression line that indicates the general trend over the years.
 
 - **Female:** Represented in pink.
 - **Male:** Represented in blue.
 - **Married:** Represented in orange.
-
-### Regression Lines
-
-Each scatter plot is accompanied by a regression line that indicates the general trend over the years.
-
--
-
-To visually represent the education trends, bar graphs and lines charts were created.
 
 ### Bar Graph 1
 Shows the average number of completions for each level of education. From this we can see that High School and Bachelors degrees have the largest number of completions. From this view, it looks like Associates, Bachelors, and Masters completions are increasing over the years. Next we will look closer at these three levels of education. 
