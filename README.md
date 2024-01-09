@@ -54,7 +54,7 @@ Each scatter plot is accompanied by a regression line that indicates the general
 To visually represent the education trends, bar graphs and lines charts were created.
 
 ### Bar Graph 1
-Shows the average number of completions for each level of education.
+Shows the average number of completions for each level of education. From this we can see that High School and Bachelors degrees have the largest number of completions. From this view, it looks like Associates, Bachelors, and Masters completions are increasing over the years. Next we will look closer at these three levels of education. 
 - **No Education:** Represented in blue.
 - **High School Education:** Represented in orange.
 - **GED:** Represented in green.
@@ -65,13 +65,13 @@ Shows the average number of completions for each level of education.
 - **Doctorate:** Represented in grey.
 
 ### Line Chart
-Shows the TOTAL number of completions for Associates, Bachelors, and Masters education levels.
+Shows the TOTAL number of completions for Associates, Bachelors, and Masters education levels. From this view, we can see that the overall total number of completions for each degree type is increasing, but is it increasing more in the year post covid (2020)? Next, we will examine the increases more closely.
 - **Associates:** Represented in blue.
 - **Bachelors:** Represented in orange.
 - **Masters:** Represented in green.
 
 ### Bar Graph 2
-Shows the total number of NEW completions for Associates, Bachelors, and Masters education levels in each year.
+Shows the total number of NEW completions for Associates, Bachelors, and Masters education levels in each year. This bar graph shows only the new completed degrees each year. The data actually shows that less people completed degrees between 2021 and 2022, than in prior years. While the overall total of completions of education levels have not stopped increasing, the yearly completion amount has decreased.
 - **Associates:** Represented in blue.
 - **Bachelors:** Represented in orange.
 - **Masters:** Represented in green.
