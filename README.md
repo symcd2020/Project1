@@ -9,17 +9,17 @@ Project1 Presentation (https://www.canva.com/design/DAF4-aYz-qw/Vl_bVDWk8h5WOtZa
 
 
 
-# Income Analysis Based on Marriage Status and Gender for COVID (2018-2022)
+# Effects of COVID on the US Median Income
 
 ## Overview
-
-This analysis explores the trends in income over the years 2018-2022, focusing on differentiating factors such as marriage status and gender. The dataset includes information on poverty levels for three distinct groups: Single Females, Single Males, and Married Individuals.
 
 The aim of our project is to uncover, if any, patterns that Covid had on the Median Income of the United States. We’ll examine relationships between education, marriage status, income level, population density, and other related relationships derived from the data over the years of 2018-2022.
 
-## Income Analysis Based on Rural vs Urban Populations
+## Overview of Income Analysis Based on Marriage Status and Gender for COVID (2018-2022) 
 
-## Overview
+This analysis explores the trends in income over the years 2018-2022, focusing on differentiating factors such as marriage status and gender. The dataset includes information on poverty levels for three distinct groups: Single Females, Single Males, and Married Individuals.
+
+## Overview of Income Analysis Based on Rural vs Urban Populations
 
 For these comparisons, areas were separated by zip code. Zip codes with population <50000 are defined as rural areas and zip codes with populations >50000 are defined as urban areas. 
 
@@ -61,7 +61,7 @@ The data used is this study was the U.S. Census data from 2018-2022. The dataset
 - **professional_education:** Persons age 25 and over who have completed a Professional degree.
 - **doctoral_education:** Persons age 25 and over who have completed a Doctoral degree.
   
-## Data Visualization
+## Data Visualization for Marriage Status & Gender
 To visually represent the trends, bar graphs and lines charts were created.
 
 ### Scatter Plots
@@ -75,8 +75,7 @@ To visually represent the income trends, a bar graph and scatter plot with regre
 
 Each scatter plot is accompanied by a regression line that indicates the general trend over the years.
 
--
-
+## Data Visualization for Marriage Status & Gender
 To visually represent the education trends, bar graphs and lines charts were created.
 
 ### Bar Graph 1
