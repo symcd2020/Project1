@@ -52,7 +52,7 @@ Each scatter plot is accompanied by a regression line that indicates the general
 
 
 
-To visually represent the education trends, a bar graphs and lines charts were created.
+To visually represent the education trends, bar graphs and lines charts were created.
 
 ### Bar Graph 1
 Shows the average number of completions for each level of education.
@@ -94,7 +94,16 @@ Shows the total number of NEW completions for Associates, Bachelors, and Masters
 
 ### 10. Completed Levels of Education Over Time
 
-- Based on the data available, the covid-19 pandemic did not increase the number of individuals aged 25 and over with degrees. 
+- Based on the available data, the Covid-19 pandemic did not lead to an increase in the number of individuals aged 25 and over with degrees. There was no observable increased rise in the proportion of people with some level of education over the typical year-to-year completion rates. The data shows that there was in fact a decrease in the number of completed levels of education from 2021-2022. 
+
+  
+## Limitations
+
+### Education Data
+- The data used only includes data on those aged 25 and up.
+- The data used only includes data on those who have completed the education, not currently enrolled.
+- The years of data used in this study (2018-2022). As we know, it takes time to complete a degree. Associates take approximately 2 years. Bachelors take approximately 4 years. Masters take approximately 2+ years depending on the program of study.
+
 
 ## Conclusion
 
