@@ -78,13 +78,13 @@ If trends continue at the rate proven by 2018-2022 data, urban per capita income
 ## Data Visualization for Poverty Rate
 To visually represent the income trends, a bar graph and scatter plots were created for each group.
 
-## Scatter Plots
+### Scatter Plots
 - **Poverty:** Represented in pink.
 - **Poverty Rate:** Represented in blue.
 - **Household Income:** Represented in green.
 - **Per Capita Income:** Represented in purple.
 
-## Bar Graphs
+### Bar Graphs
 - **Poverty:** Represented in pink.
 - **Household Income:** Represented in green.
 - **Per Capita Income:** Represented in purple.
