@@ -1,4 +1,5 @@
 How did the 2019 Covid Pandemic affect the United States poverty rate?
+
 The resources that became available and the amount of people wanting to increase their income, further their education and financial situations have drastically changed from 2018 to 2022..  According to the “Center on Budget & Policy Priorities” (CBPP) the pandemic reduced poverty by 64 percent— all-time highs in poverty-reduction effectiveness with data back to 1967 with analyzing data from the US Census Bureau over the years. 
 The average individual income increasing from $30,138 in 2018 to $37,676 in 2022
 The average household income increasing from $59,031 in 2018 to $73,132 in 2022
