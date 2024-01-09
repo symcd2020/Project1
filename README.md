@@ -11,17 +11,39 @@ Project1 Presentation (https://www.canva.com/design/DAF4-aYz-qw/Vl_bVDWk8h5WOtZa
 
 # Effects of COVID on the US Median Income
 
-## Overview
+## General Overview
 
 The aim of our project is to uncover, if any, patterns that Covid had on the Median Income of the United States. We’ll examine relationships between education, marriage status, income level, population density, and other related relationships derived from the data over the years of 2018-2022.
+
+## Overview of Income Analysis Based on Rural vs Urban Populations
+
+For these comparisons, areas were separated by zip code. Zip codes with population <50000 are defined as rural areas and zip codes with populations >50000 are defined as urban areas. 
 
 ## Overview of Income Analysis Based on Marriage Status and Gender for COVID (2018-2022) 
 
 This analysis explores the trends in income over the years 2018-2022, focusing on differentiating factors such as marriage status and gender. The dataset includes information on poverty levels for three distinct groups: Single Females, Single Males, and Married Individuals.
 
-## Overview of Income Analysis Based on Rural vs Urban Populations
+## Overview of Education Levels Impact on Median Income
+This analysis explores completed levels of education to see if they had an effect on income.
 
-For these comparisons, areas were separated by zip code. Zip codes with population <50000 are defined as rural areas and zip codes with populations >50000 are defined as urban areas. 
+## Dataset Description
+
+The data used is this study was the U.S. Census data from 2018-2022. The dataset comprises the following columns:
+
+- **Year:** The years ranging from 2018 to 2022.
+- **poverty_female:** Poverty levels for single females.
+- **poverty_male:** Poverty levels for single males.
+- **poverty_family:** Poverty levels for married individuals.
+- **no_schooling:** Persons age 25 and over who have completed no schooling.
+- **high_school_education:** Persons age 25 and over who have completed high school.
+- **ged_education:** Persons age 25 and over who have completed a GED or alternative credential.
+- **assosciates_education:** Persons age 25 and over who have completed an Associates degree.
+- **bachelos_education:** Persons age 25 and over who have completed a Bachelors degree.
+- **masters_education:** Persons age 25 and over who have completed a Masters degree.
+- **professional_education:** Persons age 25 and over who have completed a Professional degree.
+- **doctoral_education:** Persons age 25 and over who have completed a Doctoral degree.
+
+## Data Visualization for Income Analysis Based on Rural vs Urban Populations
 
 ### Per Capita Averages By Year Chart
 
@@ -42,24 +64,6 @@ Other possibilities for this shift could be continued higher education resulting
 ### Expected Growth Chart
 
 If trends continue at the rate proven by 2018-2022 data, urban per capita income will continue to increase by $2101 per year and rural per capita income will continue to increase by $1750 per year. 
-
-
-## Dataset Description
-
-The data used is this study was the U.S. Census data from 2018-2022. The dataset comprises the following columns:
-
-- **Year:** The years ranging from 2018 to 2022.
-- **poverty_female:** Poverty levels for single females.
-- **poverty_male:** Poverty levels for single males.
-- **poverty_family:** Poverty levels for married individuals.
-- **no_schooling:** Persons age 25 and over who have completed no schooling.
-- **high_school_education:** Persons age 25 and over who have completed high school.
-- **ged_education:** Persons age 25 and over who have completed a GED or alternative credential.
-- **assosciates_education:** Persons age 25 and over who have completed an Associates degree.
-- **bachelos_education:** Persons age 25 and over who have completed a Bachelors degree.
-- **masters_education:** Persons age 25 and over who have completed a Masters degree.
-- **professional_education:** Persons age 25 and over who have completed a Professional degree.
-- **doctoral_education:** Persons age 25 and over who have completed a Doctoral degree.
   
 ## Data Visualization for Marriage Status & Gender
 To visually represent the trends, bar graphs and lines charts were created.
@@ -75,7 +79,7 @@ To visually represent the income trends, a bar graph and scatter plot with regre
 
 Each scatter plot is accompanied by a regression line that indicates the general trend over the years.
 
-## Data Visualization for Marriage Status & Gender
+## Data Visualization for Education
 To visually represent the education trends, bar graphs and lines charts were created.
 
 ### Bar Graph 1
