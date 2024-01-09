@@ -129,4 +129,7 @@ Shows the total number of NEW completions for Associates, Bachelors, and Masters
 
 The analysis suggests an overall positive trend in income, with decreasing poverty levels across all groups from 2018 to 2022. The visualizations provide insights into the relative differences in poverty levels based on both gender and family status.
 
-This information can be valuable for policymakers, researchers, and organizations aiming to address economic disparities and formulate targeted interventions.
+
+## Sources
+
+- https://www.lendingtree.com/student/pandemic-returning-to-school-survey/
