@@ -19,9 +19,9 @@ This analysis explores the trends in income over the years 2018-2022, focusing o
 The dataset comprises the following columns:
 
 - **Year:** The years ranging from 2018 to 2022.
-- **poverty_female:** Poverty levels for females.
-- **poverty_male:** Poverty levels for males.
-- **poverty_family:** Poverty levels for families.
+- **poverty_female:** Poverty levels for single females.
+- **poverty_male:** Poverty levels for single males.
+- **poverty_family:** Poverty levels for married individuals.
 
 ## Data Visualization
 
