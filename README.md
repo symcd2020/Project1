@@ -34,7 +34,7 @@ The dataset comprises the following columns:
 - **masters_education:** Persons age 25 and over who have completed a Masters degree.
 - **professional_education:** Persons age 25 and over who have completed a Professional degree.
 - **doctoral_education:** Persons age 25 and over who have completed a Doctoral degree.
-- 
+  
 ## Data Visualization
 
 To visually represent the income trends, a bar graph and scatter plot with regression lines were created for each group.
@@ -48,6 +48,9 @@ To visually represent the income trends, a bar graph and scatter plot with regre
 ### Regression Lines
 
 Each scatter plot is accompanied by a regression line that indicates the general trend over the years.
+
+
+
 
 To visually represent the education trends, a bar graphs and lines charts were created.
 
@@ -91,7 +94,7 @@ Shows the total number of NEW completions for Associates, Bachelors, and Masters
 
 ### 10. Completed Levels of Education Over Time
 
-- Shelby will add notes here
+- Based on the data available, the covid-19 pandemic did not increase the number of individuals aged 25 and over with degrees. 
 
 ## Conclusion
 
