@@ -17,6 +17,32 @@ This analysis explores the trends in income over the years 2018-2022, focusing o
 
 The aim of our project is to uncover, if any, patterns that Covid had on the Median Income of the United States. We’ll examine relationships between education, marriage status, income level, population density, and other related relationships derived from the data over the years of 2018-2022.
 
+## Income Analysis Based on Rural vs Urban Populations
+
+## Overview
+
+For these comparisons, areas were separated by zip code. Zip codes with population <50000 are defined as rural areas and zip codes with populations >50000 are defined as urban areas. 
+
+### Per Capita Averages By Year Chart
+
+What the data shows is that the per capita income in both rural and urban areas experienced increases through the pandemic.
+Urbanized areas do have slightly higher per capita averages but both have experienced approximately the same growth. 
+
+Before pandemic (2018-2019), urban areas experienced a 4.81% increase in per capita income and rural areas experienced a 3.92% increase in per capita income. 
+After pandemic (2021-2022), urban areas experienced a 9.03% increase in per capita income and rural areas experienced an 8.75% increase in per capita income. 
+
+### Population Distribution Chart
+
+What caused the rate on increase in per capita income to nearly double from 2018-2019 to 2021-2022? Is it possibly a shift in the number of people moving from urban to rural areas due to being able to work remotely?
+
+This does not appear to be so, as total numbers of people living in rural areas only sligtly increases from 2020 to 2022.
+
+Other possibilities for this shift could be continued higher education resulting increased salaries or an overall increase in pay rates to encourage employment. This would be an interesting subject for further investigation. 
+
+### Expected Growth Chart
+
+If trends continue at the rate proven by 2018-2022 data, urban per capita income will continue to increase by $2101 per year and rural per capita income will continue to increase by $1750 per year. 
+
 
 ## Dataset Description
 
