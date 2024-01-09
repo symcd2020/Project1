@@ -50,7 +50,7 @@ Each scatter plot is accompanied by a regression line that indicates the general
 ### 2. Relative Trends
 **Females vs. Males:** While both Single Females and Single Males show decreasing trends, it appears that poverty among females is consistently higher than among males.
 
-- **Families vs. Individuals:** Married Individuals exhibit a similar trend to Single Females and Single Males, indicating that economic conditions for families follow a comparable pattern to those of individuals.
+**Families vs. Individuals:** Married Individuals exhibit a similar trend to Single Females and Single Males, indicating that economic conditions for families follow a comparable pattern to those of individuals.
 
 ## Conclusion
 
