@@ -20,7 +20,7 @@ The aim of our project is to uncover, if any, patterns that Covid had on the Med
 For these comparisons, areas were separated by zip code. Zip codes with population <50000 are defined as rural areas and zip codes with populations >50000 are defined as urban areas. 
 
 ## Overview of Poverty Rate
-?
+This analysis explores the trends in income over the years 2018-2022, focusing on differentiating factors such as Poverty Rate, Household income, Per Capita Income.
 
 ## Overview of Income Analysis Based on Marriage Status and Gender for COVID (2018-2022) 
 
@@ -37,9 +37,10 @@ The data used is this study was the U.S. Census data from 2018-2022. The dataset
 - ?
 - ?
 - ?
-- ?
-- ?
-- ?
+- **Poverty**
+- **Poverty Rate**
+- **Household Income**
+- **Per Capita Income**
 - **poverty_female:** Poverty levels for single females.
 - **poverty_male:** Poverty levels for single males.
 - **poverty_family:** Poverty levels for married individuals.
@@ -75,7 +76,19 @@ Other possibilities for this shift could be continued higher education resulting
 If trends continue at the rate proven by 2018-2022 data, urban per capita income will continue to increase by $2101 per year and rural per capita income will continue to increase by $1750 per year. 
   
 ## Data Visualization for Poverty Rate
-?
+To visually represent the income trends, a bar graph and scatter plots were created for each group.
+
+## Scatter Plots
+- **Poverty:** Represented in pink.
+- **Poverty Rate:** Represented in blue.
+- **Household Income:** Represented in green.
+- **Per Capita Income:** Represented in purple.
+
+## Bar Graphs
+- **Poverty:** Represented in pink.
+- **Household Income:** Represented in green.
+- **Per Capita Income:** Represented in purple.
+- **Poverty Rate Percentage:** Represented on Orange graph.
 
 ## Data Visualization for Marriage Status & Gender
 To visually represent the trends, bar graphs and lines charts were created.
@@ -123,11 +136,11 @@ Shows the total number of NEW completions for Associates, Bachelors, and Masters
 
 ### 2. Lori 2 if needed
 
-### 3. Elcia 1
+### 3. Poverty Rate Over Time
 
-### 4. Elcia 2 if needed
+- **Analysis:** The scatter plots and bar graphs show a consistent decline, indicating a decreasing trend in poverty levels from 2018 to 2022.
 
-### 5. Poverty Levels Over Time
+### 4. Poverty Levels Over Time
 
 - **Single Female:** The scatter plot and regression line for poverty among females show a consistent decline, indicating a decreasing trend in poverty levels from 2018 to 2022.
 
@@ -135,12 +148,12 @@ Shows the total number of NEW completions for Associates, Bachelors, and Masters
 
 - **Married:** The scatter plot and regression line for poverty among families also demonstrate a declining trend, suggesting an overall improvement in economic conditions for families.
 
-### 6. Relative Trends
+### 5. Relative Trends
 **Females vs. Males:** While both Single Females and Single Males show decreasing trends, it appears that poverty among females is consistently higher than among males.
 
 **Families vs. Individuals:** Married Individuals exhibit a similar trend to Single Females and Single Males, indicating that economic conditions for families follow a comparable pattern to those of individuals.
 
-### 7. Completed Levels of Education Over Time
+### 6. Completed Levels of Education Over Time
 
 - **Limitations:** The data used only includes data on those aged 25 and up. The data used only includes data on those who have completed the education, not currently enrolled. The years of data used in this study (2018-2022). As we know, it takes time to complete a degree. Associates take approximately 2 years. Bachelors take approximately 4 years. Masters take approximately 2+ years depending on the program of study.
   
