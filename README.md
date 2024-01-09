@@ -15,6 +15,9 @@ Project1 Presentation (https://www.canva.com/design/DAF4-aYz-qw/Vl_bVDWk8h5WOtZa
 
 This analysis explores the trends in income over the years 2018-2022, focusing on differentiating factors such as marriage status and gender. The dataset includes information on poverty levels for three distinct groups: Single Females, Single Males, and Married Individuals.
 
+The aim of our project is to uncover, if any, patterns that Covid had on the Median Income of the United States. We’ll examine relationships between education, marriage status, income level, population density, and other related relationships derived from the data over the years of 2018-2022.
+
+
 ## Dataset Description
 
 The dataset comprises the following columns:
@@ -23,7 +26,15 @@ The dataset comprises the following columns:
 - **poverty_female:** Poverty levels for single females.
 - **poverty_male:** Poverty levels for single males.
 - **poverty_family:** Poverty levels for married individuals.
-
+- **no_schooling:** Persons age 25 and over who have completed no schooling.
+- **high_school_education:** Persons age 25 and over who have completed high school.
+- **ged_education:** Persons age 25 and over who have completed a GED or alternative credential.
+- **assosciates_education:** Persons age 25 and over who have completed an Associates degree.
+- **bachelos_education:** Persons age 25 and over who have completed a Bachelors degree.
+- **masters_education:** Persons age 25 and over who have completed a Masters degree.
+- **professional_education:** Persons age 25 and over who have completed a Professional degree.
+- **doctoral_education:** Persons age 25 and over who have completed a Doctoral degree.
+- 
 ## Data Visualization
 
 To visually represent the income trends, a bar graph and scatter plot with regression lines were created for each group.
