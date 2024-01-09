@@ -62,10 +62,10 @@ The data used is this study was the U.S. Census data from 2018-2022. The dataset
 - **doctoral_education:** Persons age 25 and over who have completed a Doctoral degree.
   
 ## Data Visualization
-
-To visually represent the income trends, a bar graph and scatter plot with regression lines were created for each group.
+To visually represent the trends, bar graphs and lines charts were created.
 
 ### Scatter Plots
+To visually represent the income trends, a bar graph and scatter plot with regression lines were created for each group.
 
 - **Female:** Represented in pink.
 - **Male:** Represented in blue.
@@ -117,7 +117,7 @@ Shows the total number of NEW completions for Associates, Bachelors, and Masters
 
 **Families vs. Individuals:** Married Individuals exhibit a similar trend to Single Females and Single Males, indicating that economic conditions for families follow a comparable pattern to those of individuals.
 
-### 10. Completed Levels of Education Over Time
+### 3. Completed Levels of Education Over Time
 
 - **Limitations:** The data used only includes data on those aged 25 and up. The data used only includes data on those who have completed the education, not currently enrolled. The years of data used in this study (2018-2022). As we know, it takes time to complete a degree. Associates take approximately 2 years. Bachelors take approximately 4 years. Masters take approximately 2+ years depending on the program of study.
   
