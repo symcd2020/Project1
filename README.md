@@ -49,6 +49,31 @@ To visually represent the income trends, a bar graph and scatter plot with regre
 
 Each scatter plot is accompanied by a regression line that indicates the general trend over the years.
 
+To visually represent the education trends, a bar graphs and lines charts were created.
+
+### Bar Graph 1
+Shows the average number of completions for each level of education.
+- **No Education:** Represented in blue.
+- **High School Education:** Represented in orange.
+- **GED:** Represented in green.
+- **Associates:** Represented in red.
+- **Bachelors:** Represented in purple.
+- **Masters:** Represented in brown.
+- **Professional:** Represented in pink.
+- **Doctorate:** Represented in grey.
+
+### Line Chart
+Shows the TOTAL number of completions for Associates, Bachelors, and Masters education levels.
+- **Associates:** Represented in blue.
+- **Bachelors:** Represented in orange.
+- **Masters:** Represented in green.
+
+### Bar Graph 2
+Shows the total number of NEW completions for Associates, Bachelors, and Masters education levels in each year.
+- **Associates:** Represented in blue.
+- **Bachelors:** Represented in orange.
+- **Masters:** Represented in green.
+
 ## Key Findings
 
 ### 1. Poverty Levels Over Time
@@ -63,6 +88,10 @@ Each scatter plot is accompanied by a regression line that indicates the general
 **Females vs. Males:** While both Single Females and Single Males show decreasing trends, it appears that poverty among females is consistently higher than among males.
 
 **Families vs. Individuals:** Married Individuals exhibit a similar trend to Single Females and Single Males, indicating that economic conditions for families follow a comparable pattern to those of individuals.
+
+### 10. Completed Levels of Education Over Time
+
+- Shelby will add notes here
 
 ## Conclusion
 
