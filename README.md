@@ -39,8 +39,8 @@ The data used is this study was the U.S. Census data from 2018-2022. The dataset
 - ?
 - **Poverty**
 - **Poverty Rate**
-- **Household Income**
-- **Per Capita Income**
+- **Household Income:** Median household income in the past 12 months (in 2013 inflation-adjusted dollars)
+- **Per Capita Income:** Per capita income in the past 12 months (in 2013 inflation-adjusted dollars)
 - **poverty_female:** Poverty levels for single females.
 - **poverty_male:** Poverty levels for single males.
 - **poverty_family:** Poverty levels for married individuals.
