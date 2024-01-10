@@ -166,4 +166,5 @@ The analysis suggests an overall positive trend in income, with decreasing pover
 ## Sources
 
 - https://www.lendingtree.com/student/pandemic-returning-to-school-survey/
+- https://www.cbpp.org/research/poverty-and-inequality/governments-pandemic-response-turned-a-would-be-poverty-surge-into#:~:text=2020%20Relief%20Led%20to%20Record%20Drop%20in%20Poverty&text=But%20when%20government%20assistance%20and,in%20data%20back%20to%201967
   
