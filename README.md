@@ -34,10 +34,9 @@ This analysis explores completed levels of education to see if they had an effec
 The data used is this study was the U.S. Census data from 2018-2022. The dataset comprises the following columns:
 
 - **Year:** The years ranging from 2018 to 2022.
-- ?
-- ?
-- ?
-- **Poverty**
+- **Zip Code:** Zip codes in the United States.
+- **Population:** Total population.
+- **Poverty:** Number of persons whose income in the past 12 months is below the poverty level.
 - **Poverty Rate**
 - **Household Income:** Median household income in the past 12 months (in 2013 inflation-adjusted dollars)
 - **Per Capita Income:** Per capita income in the past 12 months (in 2013 inflation-adjusted dollars)
