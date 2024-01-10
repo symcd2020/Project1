@@ -131,15 +131,14 @@ Shows the total number of NEW completions for Associates, Bachelors, and Masters
 
 ## Key Findings
 
-### 1. Lori
+### 1. Rural vd Urban Over Time
+- **Analysis:** If trends continue at the rate proven by 2018-2022 data, urban per capita income will continue to increase by $2101 per year and rural per capita income will continue to increase by $1750 per year.
 
-### 2. Lori 2 if needed
-
-### 3. Poverty Rate Over Time
+### 2. Poverty Rate Over Time
 
 - **Analysis:** The scatter plots and bar graphs show a consistent decline, indicating a decreasing trend in poverty levels from 2018 to 2022.
 
-### 4. Poverty Levels Over Time
+### 3. Poverty Levels Over Time & Relative Trends
 
 - **Single Female:** The scatter plot and regression line for poverty among females show a consistent decline, indicating a decreasing trend in poverty levels from 2018 to 2022.
 
@@ -147,12 +146,11 @@ Shows the total number of NEW completions for Associates, Bachelors, and Masters
 
 - **Married:** The scatter plot and regression line for poverty among families also demonstrate a declining trend, suggesting an overall improvement in economic conditions for families.
 
-### 5. Relative Trends
-**Females vs. Males:** While both Single Females and Single Males show decreasing trends, it appears that poverty among females is consistently higher than among males.
+- **Females vs. Males:** While both Single Females and Single Males show decreasing trends, it appears that poverty among females is consistently higher than among males.
 
-**Families vs. Individuals:** Married Individuals exhibit a similar trend to Single Females and Single Males, indicating that economic conditions for families follow a comparable pattern to those of individuals.
+- **Families vs. Individuals:** Married Individuals exhibit a similar trend to Single Females and Single Males, indicating that economic conditions for families follow a comparable pattern to those of individuals.
 
-### 6. Completed Levels of Education Over Time
+### 4. Completed Levels of Education Over Time
 
 - **Limitations:** The data used only includes data on those aged 25 and up. The data used only includes data on those who have completed the education, not currently enrolled. The years of data used in this study (2018-2022). As we know, it takes time to complete a degree. Associates take approximately 2 years. Bachelors take approximately 4 years. Masters take approximately 2+ years depending on the program of study.
   
